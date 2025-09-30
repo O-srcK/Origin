@@ -1,0 +1,5 @@
+MenuId,Type,Name,Path,Extra
+1,url,Google,https://google.com
+1,url,GitHub,https://github.com
+1,pdf,SampleDoc,resource/example.pdf
+1,url,Microsoft,https://microsoft.com
